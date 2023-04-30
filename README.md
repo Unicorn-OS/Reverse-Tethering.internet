@@ -8,12 +8,19 @@ sch:
 home: https://github.com/Genymobile/gnirehtet
 
 
-# guide:
-requires Root
+# Guide:
 ## CIA guide!
+limitation: requires Root
 - https://wikileaks.org/ciav7p1/cms/page_13762950.html
 
-root not required
-- https://android.stackexchange.com/questions/2298/how-to-set-up-reverse-tethering-over-usb
+## bridge method
+test: Works!  
+on: Android 4.0.4
 - http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
-- ark: https://web.archive.org/web/20170601000000*/http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
+ark:
+- https://web.archive.org/web/*/http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
+- https://web.archive.org/web/20140222012412/http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
+
+
+# discuss:
+https://android.stackexchange.com/questions/2298/how-to-set-up-reverse-tethering-over-usb

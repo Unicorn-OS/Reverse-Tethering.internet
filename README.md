@@ -1,5 +1,12 @@
 # Reverse-Tethering.internet
-sch: https://www.google.com/search?q=adb+internet+over+usb
+sch:
+- https://www.google.com/search?q=adb+internet+over+usb
+- https://www.google.com/search?q=adb+reverse+tethering
+
+# source:
+## Genymobile / gnirehtet
+home: https://github.com/Genymobile/gnirehtet
+
 
 # guide:
 requires Root

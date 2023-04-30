@@ -16,3 +16,4 @@ requires Root
 root not required
 - https://android.stackexchange.com/questions/2298/how-to-set-up-reverse-tethering-over-usb
 - http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
+- ark: https://web.archive.org/web/20170601000000*/http://blog.mathieu.carbou.me/post/60454997009/reverse-usb-tethering-with-android-2-2
